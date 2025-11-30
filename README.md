@@ -154,22 +154,6 @@ Portafolio web moderno desarrollado con Angular
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriciomenesesavila&show_icons=true&theme=transparent&icon_color=30A3DC&text_color=daf7dc&bg_color=0d1117&locale=es&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomenesesavila&layout=compact&theme=transparent&icon_color=30A3DC&text_color=daf7dc&bg_color=0d1117&locale=es&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=fabriciomenesesavila&theme=dark&background=0d1117&ring=30A3DC&fire=FF5733&currStreakNum=daf7dc&locale=es&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=fabriciomenesesavila&label=Vistas%20del%20perfil&color=0e75b6&style=flat)
-
-</div>
-
----
-
 ## 📬 Conecta Conmigo
 
 <div align="center">
